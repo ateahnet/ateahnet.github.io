@@ -15,12 +15,6 @@ taxonomies = [
     {name = "tags", feed = true},
 ]
 
-after_dark_menu = [
-    {url = "$BASE_URL", name = "Home"},
-    {url = "$BASE_URL/categories", name = "Categories"},
-    {url = "$BASE_URL/tags", name = "Tags"},
-]
-
 
 [markdown]
 # Whether to do syntax highlighting
@@ -29,3 +23,8 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+after_dark_menu = [
+    {url = "$BASE_URL", name = "Home"},
+    {url = "$BASE_URL/categories", name = "Categories"},
+    {url = "$BASE_URL/tags", name = "Tags"},
+]
