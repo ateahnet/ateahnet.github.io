@@ -3,4 +3,15 @@
     <url>
         <loc>https://ateah.net/</loc>
     </url>
+    <url>
+        <loc>https://ateah.net/first/</loc>
+        <lastmod>2019-11-28</lastmod>
+    </url>
+    <url>
+        <loc>https://ateah.net/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://ateah.net/second/</loc>
+        <lastmod>2019-11-28</lastmod>
+    </url>
 </urlset>
