@@ -1,3 +1,6 @@
 [submodule "themes/after-dark"]
 	path = themes/after-dark
 	url = http://github.com/ateahnet/after-dark.git
+[submodule "themes/d3c3nt"]
+	path = themes/d3c3nt
+	url = https://github.com/ateahnet/d3c3nt.git
