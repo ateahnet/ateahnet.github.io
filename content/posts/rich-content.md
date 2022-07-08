@@ -1,5 +1,5 @@
 +++
-title = "Rich Content"
+title = "RICH CONTENT"
 description = "A brief description of Hugo Shortcodes"
 date = 2020-08-26
 +++
