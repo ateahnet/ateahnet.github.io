@@ -29,7 +29,6 @@ d3_nav = [
 { name = "HOME", path = "/" },
 { name = "POSTS", path = "/posts/" },
 { name = "Dictionary", path = "/dictionary/" },
-{ name = "CONFIG", path = "/config/" },
 ]
 
 d3_icon = "/icon.png"
